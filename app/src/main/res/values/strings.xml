@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fun Facts!</string>
+    <string name="did_you_know">Did you know?</string>
+    <string name="first_fact">The total weight of the bacteria in the human body is 2 kg!</string>
+    <string name="show_fact">Show Another Fun Fact</string>
+</resources>
